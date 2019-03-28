@@ -68,7 +68,7 @@
 Python+selenium爬自己的支付宝账单
 
 ## 文章
-- [Domain Driver Design学习自行翻译成DOC文档](http://get.jobdeer.com/706.get)
+- [Domain Driver Design学习自行翻译成DOC文档](https://github.com/specialbiscuit/mybio/blob/master/%E4%B8%AD%E6%96%87-Domain-Driven%20Design%20in%20PHP.docx)
 
 # 技能清单
 
