@@ -12,9 +12,7 @@
  - Jason/男/1992 
  - 本科/盐城工学院计算机系 
  - 工作年限：4年
- - 技术博客：http://blog.github.io
- - Github：http://github.com/geekcompany
-
+ - 技术博客：https://specialbiscuit.github.io/jason.github.io/
  - 期望职位：PHP高级程序员
  - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
  - 期望城市：杭州
